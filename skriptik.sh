@@ -14,7 +14,7 @@ function apache_install()
 
         sudo touch /apache_installed
     else
-        echo -e "Apache is already installed... "
+        echo -e "Apache is already installed..."
     fi
 }
 
